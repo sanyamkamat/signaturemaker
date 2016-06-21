@@ -1,0 +1,33 @@
+{
+  "name": "signature",
+  "version": "1.0.0",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanyamkamat/signaturemaker.git"
+  },
+  "keywords": [
+    "signature",
+    "angularjs",
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Sanyam Kamat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanyamkamat/signaturemaker/issues"
+  },
+  "homepage": "https://github.com/sanyamkamat/signaturemaker#readme"
+}
